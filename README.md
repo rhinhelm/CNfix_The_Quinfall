@@ -9,6 +9,9 @@ Steam\steamapps\common\The Quinfall\TheQuinfall_Data\StreamingAssets\LANGUAGES\
 覆盖
 
 ## 更新日志
+20250616
+BOSS名称汉化
+
 20250614
 1.配合新版
 2.套装名称汉化 by 𝒊𝑪𝒐𝒈𝒏𝒆𝒐
