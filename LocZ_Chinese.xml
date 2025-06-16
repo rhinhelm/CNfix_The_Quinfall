@@ -1233,11 +1233,11 @@
 	<Text key="1421">升级</Text>
 	<Text key="1422">重置</Text>
 	<Text key="1423">关闭复选框。</Text>
-	<Text key="1424">剑/盾</Text>
+	<Text key="1424">剑与盾</Text>
 	<Text key="1425">双手剑</Text>
 	<Text key="1426">矛</Text>
 	<Text key="1427">双斧</Text>
-	<Text key="1428">双匕首</Text>
+	<Text key="1428">匕首</Text>
 	<Text key="1429">战锤</Text>
 	<Text key="1430">弓</Text>
 	<Text key="1431">弩</Text>
@@ -3024,7 +3024,7 @@
 	<Text key="50003">双手剑</Text>
 	<Text key="50004">矛</Text>
 	<Text key="50005">双斧</Text>
-	<Text key="50006">双匕</Text>
+	<Text key="50006">匕首</Text>
 	<Text key="50007">弓</Text>
 	<Text key="50008">弩</Text>
 	<Text key="50009">法杖</Text>
@@ -3048,9 +3048,9 @@
 	<Text key="50115">头盔 [轻型]</Text>
 	<Text key="50116">臂铠 [轻型]</Text>
 	<Text key="50117">靴子 [轻型]</Text>
-	<Text key="50118">铠甲 [长袍]</Text>
+	<Text key="50118">盔甲 [长袍]</Text>
 	<Text key="50119">头盔 [长袍]</Text>
-	<Text key="50120">臂铠 [战袍]</Text>
+	<Text key="50120">臂铠 [长袍]</Text>
 	<Text key="50121">靴子 [长袍]</Text>
 	<Text key="50122">斧头 [工具]</Text>
 	<Text key="50123">镐头 [工具]</Text>
@@ -3066,11 +3066,11 @@
 	<Text key="50206">箭（弩）</Text>
 	<Text key="50207">力量卡</Text>
 	<Text key="50208">技能石</Text>
-	<Text key="50209">技能书 [剑]</Text>
+	<Text key="50209">技能书 [剑与盾]</Text>
 	<Text key="50210">技能书 [双手剑]</Text>
 	<Text key="50211">技能书 [长矛]</Text>
 	<Text key="50212">技能书 [双斧]</Text>
-	<Text key="50213">技能书 [双刀]</Text>
+	<Text key="50213">技能书 [匕首]</Text>
 	<Text key="50214">技能书 [战锤]</Text>
 	<Text key="50215">技能书 [弓]</Text>
 	<Text key="50216">技能书 [弩]</Text>
@@ -3086,8 +3086,8 @@
 	<Text key="50226">宠物</Text>
 	<Text key="50227">坐骑</Text>
 	<Text key="50228">任务素材</Text>
-	<Text key="50229">坐骑--马鞍</Text>
-	<Text key="50230">坐骑-马蹄铁</Text>
+	<Text key="50229">坐骑 - 马鞍</Text>
+	<Text key="50230">坐骑 - 马蹄铁</Text>
 	<Text key="50231">坐骑 - 马镫</Text>
 	<Text key="50232">种子</Text>
 	<Text key="50233">可耕种动物</Text>
@@ -3130,7 +3130,7 @@
 	<Text key="50603">服饰 - 双手剑</Text>
 	<Text key="50604">服饰 - 矛</Text>
 	<Text key="50605">服饰 - 双斧</Text>
-	<Text key="50606">服饰 - 双匕首</Text>
+	<Text key="50606">服饰 - 匕首</Text>
 	<Text key="50607">服饰 - 弓</Text>
 	<Text key="50608">服饰 - 弩</Text>
 	<Text key="50609">服饰 - 法杖</Text>
@@ -3323,17 +3323,17 @@
 	<Text key="105523">审判撕裂</Text>
 	<Text key="105524">凛哮战斧</Text>
 
-	<Text key="106001">暗影双匕</Text>
-	<Text key="106002">学徒双匕</Text>
-	<Text key="106003">精英双匕</Text>
-	<Text key="106004">菜鸟双匕</Text>
-	<Text key="106005">晋升双匕</Text>
+	<Text key="106001">暗影匕首</Text>
+	<Text key="106002">学徒匕首</Text>
+	<Text key="106003">精英匕首</Text>
+	<Text key="106004">菜鸟匕首</Text>
+	<Text key="106005">晋升匕首</Text>
 	<Text key="106006">精钢暗影匕</Text>
-	<Text key="106007">新兵双匕</Text>
-	<Text key="106008">初学者双匕</Text>
-	<Text key="106009">角斗大师双匕</Text>
-	<Text key="106010">大师双匕</Text>
-	<Text key="106011">老兵双匕</Text>
+	<Text key="106007">新兵匕首</Text>
+	<Text key="106008">初学者匕首</Text>
+	<Text key="106009">角斗大师匕首</Text>
+	<Text key="106010">大师匕首</Text>
+	<Text key="106011">老兵匕首</Text>
 
 	<Text key="106501">刺客之击</Text>
 	<Text key="106502">夜刃</Text>
