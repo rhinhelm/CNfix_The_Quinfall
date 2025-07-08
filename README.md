@@ -9,6 +9,12 @@ Steam\steamapps\common\The Quinfall\TheQuinfall_Data\StreamingAssets\LANGUAGES\
 覆盖
 
 ## 更新日志
+20250708
+1.游戏版本更新
+2.部分地名汉化
+3.新套装护符汉化修正
+4.装备属性展示优化
+
 20250616
 BOSS名称汉化
 
