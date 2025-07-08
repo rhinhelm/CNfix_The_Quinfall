@@ -281,8 +281,8 @@
 	<Text key="292">更多优质物品用于耕作</Text>。
 	<Text key="293">更优质的饲养物品</Text>。
 	<Text key="294">大篷车载重量</Text>
-	<Text key="295">飞船耐久性</Text>。
-	<Text key="296">飞船武器伤害</Text>。
+	<Text key="295">舰船耐久性</Text>。
+	<Text key="296">舰船武器伤害</Text>。
 	<Text key="297">购买更便宜的包裹</Text>
 	<Text key="298">出售更贵的套装</Text>
 	<Text key="299">最高潜能等级</Text>。
@@ -290,7 +290,7 @@
 	<Text key="311">+10%舰船耐久</Text>
 	<Text key="312">+10%舰船武器伤害</Text>。
 	<Text key="313">+3%购买更便宜的包裹</Text>。
-	<Text key="314">+20%飞船耐久度</Text>
+	<Text key="314">+20%舰船耐久度</Text>
 	<Text key="315">+20%舰船武器伤害</Text>。
 	<Text key="316">+5%购买更便宜的包裹</Text>。
 	<Text key="317">+30%舰船耐久度</Text>
@@ -1132,8 +1132,8 @@
 	<Text key="1339">已成熟！您现在可以采集了。</Text>
 	<Text key="1340">剩余时间:</Text>
 	<Text key="1341">寿命：</Text>
-	<Text key="1342">品种：</Text>
-	<Text key="1343">水状态：</Text>
+	<Text key="1342">饥饿度：</Text>
+	<Text key="1343">水需求：</Text>
 	<Text key="1344">成熟度:</Text>
 	<Text key="1345">农场出租</Text>
 	<Text key="1346">租赁（5 天）</Text> 。
@@ -1357,26 +1357,26 @@
 	<Text key="1562">要开始商队盗窃，您必须从各大城市的商队经理那里雇佣一头驴子。一旦您召唤出您的驴子，您就会以盗贼的身份出现，商队的运输者会将您视为敌人。通过杀死商队商人或他们的坐骑，您可以偷走他们的商队，并将其转移到您的驴子身上。</Text>
 	<Text key="1563">小心商队运输者，当你的坐骑死亡时，你的货物会掉落在地上，被商队盗贼偷走。此外，不要远离你的商队坐骑，空的商队坐骑更容易成为目标。</Text>
 	<Text key="1564">采集</Text>。
-	<Text key="1565">手工</Text>。
-	<Text key="1566">属性</Text>。
+	<Text key="1565">制作</Text>。
+	<Text key="1566">农业</Text>。
 	<Text key="1567">其他</Text>。
-	<Text key="1568">部族/盟友</Text>。
+	<Text key="1568">氏族/联盟</Text>。
 	<Text key="1569">在这里你可以创建并管理一个氏族。您还可以向想要加入的氏族发送请求。</Text>
 	<Text key="1570">创建</Text>。
-	<Text key="1571">部族名称...</Text>。
+	<Text key="1571">氏族名称...</Text>。
 	<Text key="1572">加入</Text>。
 	<Text key="1573">部族</Text>。
 	<Text key="1574">等级</Text>。
 	<Text key="1575">成员</Text>
-	<Text key="1576">主要</Text>内容
-	<Text key="1577">权威</Text>。
+	<Text key="1576">主页</Text>
+	<Text key="1577">权限</Text>。
 	<Text key="1578">被动技能</Text>。
 	<Text key="1579">任务</Text>
-	<Text key="1580">地穴</Text>。
-	<Text key="1581">阿尔塔</Text>。
-	<Text key="1582">部族战争</Text>。
+	<Text key="1580">银行</Text>。
+	<Text key="1581">祭坛</Text>。
+	<Text key="1582">氏族战争</Text>。
 	<Text key="1583">城堡</Text>。
-	<Text key="1584">公告.</Text>。
+	<Text key="1584">公告</Text>。
 	<Text key="1585">更改氏族旗帜</Text>。
 	<Text key="1586">更改盟旗</Text>。
 	<Text key="1587">等级：</Text>
@@ -1387,16 +1387,16 @@
 	<Text key="1592">盟友氏族 1:</Text>
 	<Text key="1593">盟友氏族 2:</Text>
 	<Text key="1594">盟友氏族 3:</Text>
-	<Text key="1595">离开盟友</Text>。
-	<Text key="1596">部署盟友</Text>。
+	<Text key="1595">离开联盟</Text>。
+	<Text key="1596">部署联盟</Text>。
 	<Text key="1597">玩家</Text>。
-	<Text key="1598">权威</Text>。
+	<Text key="1598">职位</Text>。
 	<Text key="1599">等级</Text>。
 	<Text key="1600">PVP点数</Text>
 	<Text key="1601">PVE点数</Text>。
 	<Text key="1602">状态</Text>。
 	<Text key="1603">请求</Text>
-	<Text key="1604">部族创建日期：</Text>
+	<Text key="1604">氏族创建日期：</Text>
 	<Text key="1605">打开请求。</Text>
 	<Text key="1606">离开氏族</Text>。
 	<Text key="1607">解散氏族</Text>。
@@ -1415,12 +1415,12 @@
 	<Text key="1620">请求时间</Text>。
 	<Text key="1621">角色名称</Text>。
 	<Text key="1622">邀请玩家加入氏族。</Text>
-	<Text key="1623">删除部落成员。</Text>
+	<Text key="1623">删除氏族成员。</Text>
 	<Text key="1624">建立联盟。</Text>
 	<Text key="1625">加入联盟。</Text>
-	<Text key="1626">更改部族旗帜。</Text>
+	<Text key="1626">更改氏族旗帜。</Text>
 	<Text key="1627">更改联盟旗帜。</Text>
-	<Text key="1628">编辑宗族公告。</Text>
+	<Text key="1628">编辑氏族公告。</Text>
 	<Text key="1629">查看氏族仓库。</Text>
 	<Text key="1630">将物品存入仓库。</Text>
 	<Text key="1631">从仓库中提取物品。</Text>
@@ -1672,7 +1672,7 @@
 	<Text key="1867">你不能在船上这样做。</Text>
 	<Text key="1868">您的库存中没有必要的材料。</Text>
 	<Text key="1869">您无权执行此操作。</Text>
-	<Text key="1870">玩家最多可以拥有 5 艘飞船。</Text>
+	<Text key="1870">玩家最多可以拥有 5 艘舰船。</Text>
 	<Text key="1871">商队</Text>
 	<Text key="1872">海商们冒险穿越危险的海洋，通过在港口之间运送商队包裹赚取银两。他们在冒险中获得的每一次经验都会给他们带来各种优势，使他们在海上更加强大。海商们要抵御途中可能遇到的海盗船，最安全的方法就是联合起来。海洋生物也很容易受到各种攻击，从而阻碍这次冒险。</Text>
 	<Text key="1873">海盗的主要目的是偷银子。他们可以通过攻击所有其他商船来达到这一目的。海洋生物也会给海盗船造成困难，但海盗比海商更有优势。他们在这条艰难的道路上获得的每一次经验都会让他们和他们的船只变得更好。海盗对船只的控制能力更强，在海上航行的速度也更快。</Text>
@@ -1680,8 +1680,8 @@
 	<Text key="1875">加农炮</Text>
 	<Text key="1876">弹药</Text>
 	<Text key="1877">已被他人使用。</Text>
-	<Text key="1878">飞船武器上限已满。</Text>
-	<Text key="1879">飞船战利品箱</Text>。
+	<Text key="1878">舰船武器上限已满。</Text>
+	<Text key="1879">舰船战利品箱</Text>。
 	<Text key="1880">您附近没有海盗船。</Text>。
 	<Text key="1881">您的船只已达到商队包裹上限。</Text>。
 	<Text key="1882">您附近没有船只。</Text>。
@@ -1691,7 +1691,7 @@
 	<Text key="1886">船战只在第 4 频道有效。如果您的船被其他船只摧毁，您在船上的所有物品都会掉进水里。此外，不要忘记在 24 小时内提供所需的材料，以防止船只腐烂。</Text>
 	<Text key="1887">您可以向港口主人租用海盗船，在海上摧毁商船。每摧毁一艘商船和偷窃一次商队包裹都能获得海盗经验值。</Text>
 	<Text key="1888">船战只在频道 4 中进行。如果您的船被其他船只击毁，您在船上的所有物品都会掉进水里。此外，别忘了在 24 小时内提供所需的材料，以防止船只腐烂。</Text>
-	<Text key="1889">您确定要删除这艘飞船吗？请记住，您在船内的所有资产都将被删除。</Text>
+	<Text key="1889">您确定要删除这艘舰船吗？请记住，您在船内的所有资产都将被删除。</Text>
 	<Text key="1890">停靠港口的价格取决于船只到此港口的距离。请注意，被呼叫船只上的商队包裹将被删除。</Text>
 	<Text key="1891">船只</Text>。
 	<Text key="1892">您可以在此查看角色的所有船只。要将船只拖到港口或进行其他操作，您需要前往港口管理员处。</Text>
@@ -1725,7 +1725,7 @@
 	<Text key="1920">职业要求：</Text>
 	<Text key="1921">要求：</Text>
 	<Text key="1922">交换</Text>
-	<Text key="1923">你可以购买武器来保护你的飞船。您可以在使用飞船时自动发射武器。如果您授权，您的族人也可以控制武器。这样您就可以进行更精确的射击。</Text>
+	<Text key="1923">你可以购买武器来保护你的舰船。您可以在使用舰船时自动发射武器。如果您授权，您的族人也可以控制武器。这样您就可以进行更精确的射击。</Text>
 	<Text key="1924">您可以使用商船在港口之间运输商队包裹，赚取指定数量的银币。小心海盗船。还要确保您要交易的船只距离港口在 400 米以内。</Text>
 	<Text key="1925">您附近的船只</Text>。
 	<Text key="1926">您附近没有船只。</Text>
@@ -1735,14 +1735,14 @@
 	<Text key="1930">武器:</Text>。
 	<Text key="1931">碎片:</Text>。
 	<Text key="1932">商队包裹</Text>。
-	<Text key="1933">允许部族成员使用飞船。</Text>
-	<Text key="1934">允许部落成员使用飞船上的物品。</Text>
-	<Text key="1935">在指定的衰变开始时间过后，您的飞船将开始衰变，同时所有附属物品也会衰变。您可以在 "存储 "部分加载指定需求。</Text>
-	<Text key="1936">被摧毁的飞船战利品</Text>。
+	<Text key="1933">允许部族成员使用舰船。</Text>
+	<Text key="1934">允许部落成员使用舰船上的物品。</Text>
+	<Text key="1935">在指定的衰变开始时间过后，您的舰船将开始衰变，同时所有附属物品也会衰变。您可以在 "存储 "部分加载指定需求。</Text>
+	<Text key="1936">被摧毁的舰船战利品</Text>。
 	<Text key="1937">商队包裹：</Text>
-	<Text key="1938">转移到我的飞船</Text>。
+	<Text key="1938">转移到我的舰船</Text>。
 	<Text key="1939">此战利品箱中没有商队包裹。</Text>
-	<Text key="1940">您只能将商队包裹转移到您附近的飞船上。</Text>
+	<Text key="1940">您只能将商队包裹转移到您附近的舰船上。</Text>
 	<Text key="1941">普通物品：</Text>
 	<Text key="1942">此战利品箱中没有物品。</Text>
 	<Text key="1943">右键单击将其转移到您的库存中。</Text>
@@ -1752,7 +1752,7 @@
 	<Text key="1947">您不能离港口管理员太远。</Text>
 	<Text key="1948">放置</Text>。
 	<Text key="1949">旋转</Text>。
-	<Text key="1950">飞船耐久性</Text>。
+	<Text key="1950">舰船耐久性</Text>。
 	<Text key="1951">活动武器：</Text>
 	<Text key="1952">显示军械库武器点数</Text>。
 	<Text key="1953">放大</Text>。
@@ -1768,7 +1768,7 @@
 	<Text key="1963">准备！</Text>
 	<Text key="1964">（保持）开火</Text>
 	<Text key="1965">无弹药！</Text>
-	<Text key="1966">飞船正在衰变！</Text>
+	<Text key="1966">舰船正在衰变！</Text>
 	<Text key="1967">您没有加入任何部族。</Text>
 	<Text key="1968">您不属于任何党派。</Text>
 	<Text key="1969">该玩家不在游戏中。</Text>
@@ -3108,7 +3108,7 @@
 	<Text key="49031">装备等级</Text>
 
 	<Text key="49032">冷却</Text>。
-	<Text key="49033">MP</Text>文本
+	<Text key="49033">法力值</Text>文本
 
 	<Text key="49034">剩余</Text>。
 	<Text key="49035">库存重量</Text>。
@@ -8393,10 +8393,10 @@
 	<Text key="430116">乌尔萨斯罗普奇美拉</Text>
 	<Text key="430117">创世金牛形态</Text>
 	<Text key="430118">精灵神童</Text>
-	<Text key="430119">噬元兽</Text>
-	<Text key="430120">恐龙人混血</Text>
+	<Text key="430119">噬元傀儡</Text>
+	<Text key="430120">混血恐龙人</Text>
 	<Text key="430121">十字变异畸变</Text>
-	<Text key="430122">蒙斯特变形</Text>
+	<Text key="430122">畸变兽</Text>
 	<Text key="430123">霜爪乌尔萨哈混血</Text>
 	<Text key="430124">铁鳞龙骑(Draconarch)</Text>
 	<Text key="430125">风铸魔像(Aero·Forge)</Text>
@@ -8410,7 +8410,7 @@
 	<Text key="430133">维登巨像 荆棘之火</Text>
 	<Text key="430134">花岗岩心哨兵</Text>
 	<Text key="430135">炎霜龙鳞</Text>
-	<Text key="430136">翼角奇美拉</Text>
+	<Text key="430136">翼角巨兽</Text>
 	<Text key="430137">林木粉碎食人魔</Text>
 	<Text key="430138">艾里恩克劳麒麟</Text>
 	<Text key="430139">夜光吸血</Text>
@@ -8420,7 +8420,7 @@
 	<Text key="430143">星鳍空黾</Text>
 	<Text key="430144">暗影獠牙</Text>
 	<Text key="430145">啸喙者</Text>
-	<Text key="430146">悲惨哥布林</Text>
+	<Text key="430146">丧钟行者</Text>
 	<Text key="430147">骷髅小妖鬼灵</Text>
 	<Text key="430148">猎骨者</Text>
 	<Text key="430149">加密潜行者</Text>
@@ -8465,7 +8465,7 @@
 	<Text key="430188">天龙</Text>
 	<Text key="430189">龙人</Text>
 	<Text key="430190">龙骑士</Text>
-	<Text key="430191">有翼龙王</Text>
+	<Text key="430191">巨翼龙王</Text>
 	<Text key="430192">小龙人</Text>
 	<Text key="430193">阿卡丽翅龙</Text>
 	<Text key="430194">塞彭特王冠海德拉锻造</Text>
@@ -8519,7 +8519,7 @@
 	<Text key="440021">犀牛</Text>。
 	<Text key="440022">斑马</Text>。
 	
-	<Text key="440501">失落的木筏</Text>
+	<Text key="440501">丢失的木筏</Text>
 	<Text key="440502">巨龟</Text>
 	<Text key="440503">海龙</Text>
 	<Text key="440504">鲸鱼</Text>
@@ -8548,13 +8548,13 @@
 	<Text key="442004">战舰 [海盗]</Text>
 	<Text key="4420040">可作为海盗船使用。</Text>
 
-	<Text key="443001">Mermaid Ship</Text>
+	<Text key="443001">美人鱼号(Mermaid Ship)</Text>
 	<Text key="4430010">可以作为您停靠在港口的船只的外观使用。{2}{2}兼容船只:{0}{2}-战舰 [商人]{2}-战舰 [海盗]{1}</Text>
-	<Text key="443002">Charon's Ferry Ship</Text>
+	<Text key="443002">冥河渡船(Charon's Ferry Ship)</Text>
 	<Text key="4430020">可以作为您停靠在港口的船只的外观使用。{2}{2}兼容船只:{0}{2}-战舰 [商人]{2}-战舰 [海盗]{1}</Text>
-	<Text key="443003">Medusa Ship</Text>
+	<Text key="443003">美杜莎号(Medusa Ship)</Text>
 	<Text key="4430030">可以作为您停靠在港口的船只的外观使用。{2}{2}兼容船只:{0}{2}-战舰 [商人]{2}-战舰 [海盗]{1}</Text>
-	<Text key="443004">Trident Ship</Text>
+	<Text key="443004">三叉戟号(Trident Ship)</Text>
 	<Text key="4430040">可以作为您停靠在港口的船只的外观使用。{2}{2}兼容船只:{0}{2}-战舰 [商人]{2}-战舰 [海盗]{1}</Text>
 
 
@@ -10934,50 +10934,50 @@
 
 
 
-	<Text key="486001">必杀技卡 [D 级]</Text>。
+	<Text key="486001">体力卡 [D 级]</Text>。
 	<Text key="4860010">增加 3% 的最大生命值。</Text>
-	<Text key="486002">MP卡 [D 级]</Text>。
-	<Text key="4860020">增加 3% 的最大能量。</Text>
+	<Text key="486002">法力值卡 [D 级]</Text>。
+	<Text key="4860020">增加 3% 的最大法力值。</Text>
 	<Text key="486003">附魔卡 [D 阶]</Text>。
 	<Text key="4860030">对怪物造成 2% 的额外伤害。</Text>
 	<Text key="486004">防御卡 [D 阶]</Text>。
-	<Text key="4860040">对怪物造成 2% 的伤害防御。</Text>
+	<Text key="4860040">减少来自怪物 2% 的伤害。</Text>
 
 	<Text key="486011">体力卡 [C级]</Text>。
 	<Text key="4860110">增加 6% 的最大生命值。</Text>
-	<Text key="486012">MP卡 [C级]</Text>。
-	<Text key="4860120">增加 6% 的最大能量。</Text>
+	<Text key="486012">法力值卡 [C级]</Text>。
+	<Text key="4860120">增加 6% 的最大法力值。</Text>
 	<Text key="486013">附魔卡 [C 阶]</Text>。
 	<Text key="4860130">对怪物造成 4% 的额外伤害。</Text>
 	<Text key="486014">防御卡 [C 阶]</Text>。
-	<Text key="4860140">对怪物造成 4% 的伤害防御。</Text>
+	<Text key="4860140">减少来自怪物 4% 的伤害。</Text>
 
 	<Text key="486021">体力卡 [B级]</Text>。
 	<Text key="4860210">增加 9% 的最大生命值。</Text>
-	<Text key="486022">MP卡 [B级]</Text>。
-	<Text key="4860220">增加 9% 的最大能量。</Text>
+	<Text key="486022">法力值卡 [B级]</Text>。
+	<Text key="4860220">增加 9% 的最大法力值。</Text>
 	<Text key="486023">附魔卡 [B 阶]</Text>。
 	<Text key="4860230">对怪物造成 6% 的额外伤害。</Text>
 	<Text key="486024">防御卡 [B 阶]</Text>。
-	<Text key="4860240">对怪物造成 6% 的伤害。</Text>
+	<Text key="4860240">减少来自怪物6% 的伤害。</Text>
 
 	<Text key="486031">体力卡 [A 阶]</Text>。
 	<Text key="4860310">增加 12% 的最大生命值。</Text>
-	<Text key="486032">MP卡 [A级]</Text>
-	<Text key="4860320">增加 12% 的最大能量。</Text>
+	<Text key="486032">法力值卡 [A级]</Text>
+	<Text key="4860320">增加 12% 的最大法力值。</Text>
 	<Text key="486033">附魔卡 [A 阶]</Text>。
 	<Text key="4860330">对怪物造成 9% 的额外伤害。</Text>
 	<Text key="486034">防御卡 [A 阶]</Text>。
-	<Text key="4860340">对怪物造成 9% 的伤害。</Text>
+	<Text key="4860340">减少来自怪物9% 的伤害。</Text>
 
 	<Text key="486041">生命值卡 [A+ 级]</Text>。
 	<Text key="4860410">增加 15%的最大生命值。</Text>
-	<Text key="486042">MP卡 [A+ 级]</Text>。
-	<Text key="4860420">增加 15%的最大能量。</Text>
+	<Text key="486042">法力值卡 [A+ 级]</Text>。
+	<Text key="4860420">增加 15%的最大法力值。</Text>
 	<Text key="486043">附加卡 [A+级]</Text>。
 	<Text key="4860430">对怪物造成 15% 的额外伤害。</Text>
 	<Text key="486044">防御卡 [A+ 阶]</Text>。
-	<Text key="4860440">对怪物造成 15% 的伤害防御。</Text>
+	<Text key="4860440">减少来自怪物 15% 的伤害。</Text>
 
 
 
